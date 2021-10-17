@@ -70,3 +70,26 @@ body {
     border: none;
     font-size: 20px;
 }
+
+.category-paragraph {
+    color: gray;
+    text-align: center;
+}
+
+.category-img {
+    width: 65px;
+    height: 70px;
+}
+
+.card-img-top {
+    width: 315px;
+    height: 380px;
+}
+
+.card {
+    border: none;
+}
+
+.fa-location-arrow {
+    margin-right: 10px;
+}
