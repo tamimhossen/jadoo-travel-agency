@@ -1,0 +1,72 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+
+.nav-item {
+    margin-right: 25px;
+}
+
+.navbar {
+    margin-top: 15px;
+}
+
+.logo {
+    height: 34px;
+    width: 115px;
+}
+
+.front-banner {
+    margin-top: 50px;
+}
+
+.front-banner-img {
+    height: 500px;
+    width: 550px;
+}
+
+
+.welcome-paragraph {
+    color: #DF6951;
+    margin-bottom: 10px;
+}
+
+.welcome-header {
+    color: #181E4B;
+    font-weight: 900;
+    font-family: 'Volkhov', serif;
+    line-height: 70px;
+}
+
+.welcome-description {
+    font-size: 10px;
+    color: gray;
+    margin-bottom: 20px;
+}
+
+.front-button  button{
+    margin-right: 25px;
+}
+
+.front-btn-yellow {
+    background-color: rgb(255, 179, 0);
+    color: white;
+    border: none;
+    padding: 10px 10px;
+    font-size: 12px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.fa-play-circle {
+    color: #DF6951;
+    margin-right: 10px;
+}
+
+.front-play-button {
+    border: none;
+    font-size: 20px;
+}
